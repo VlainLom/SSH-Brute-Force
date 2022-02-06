@@ -6,4 +6,4 @@ pip3 install termcolor
 
 python3 sshbrute.py (ip)
 
-![Uploading Screenshot.png…]()
+![Screenshot](https://user-images.githubusercontent.com/64509591/152705411-a248a4a0-e7b7-4521-9927-a38e1176d15b.png)
